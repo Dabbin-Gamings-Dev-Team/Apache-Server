@@ -1,2 +1,2 @@
 # Apache-Server
-Apache-Server Template
+Apache Server Template
